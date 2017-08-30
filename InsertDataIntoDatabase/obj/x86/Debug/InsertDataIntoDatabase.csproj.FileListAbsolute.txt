@@ -1,0 +1,10 @@
+c:\users\sriharsha21\documents\visual studio 2010\Projects\InsertDataIntoDatabase\InsertDataIntoDatabase\obj\x86\Debug\InsertDataIntoDatabase.Form1.resources
+c:\users\sriharsha21\documents\visual studio 2010\Projects\InsertDataIntoDatabase\InsertDataIntoDatabase\obj\x86\Debug\InsertDataIntoDatabase.Properties.Resources.resources
+c:\users\sriharsha21\documents\visual studio 2010\Projects\InsertDataIntoDatabase\InsertDataIntoDatabase\obj\x86\Debug\InsertDataIntoDatabase.csproj.GenerateResource.Cache
+c:\users\sriharsha21\documents\visual studio 2010\Projects\InsertDataIntoDatabase\InsertDataIntoDatabase\bin\Debug\UserDetails.mdf
+c:\users\sriharsha21\documents\visual studio 2010\Projects\InsertDataIntoDatabase\InsertDataIntoDatabase\bin\Debug\UserDetails_log.ldf
+c:\users\sriharsha21\documents\visual studio 2010\Projects\InsertDataIntoDatabase\InsertDataIntoDatabase\bin\Debug\InsertDataIntoDatabase.exe.config
+c:\users\sriharsha21\documents\visual studio 2010\Projects\InsertDataIntoDatabase\InsertDataIntoDatabase\bin\Debug\InsertDataIntoDatabase.exe
+c:\users\sriharsha21\documents\visual studio 2010\Projects\InsertDataIntoDatabase\InsertDataIntoDatabase\bin\Debug\InsertDataIntoDatabase.pdb
+c:\users\sriharsha21\documents\visual studio 2010\Projects\InsertDataIntoDatabase\InsertDataIntoDatabase\obj\x86\Debug\InsertDataIntoDatabase.exe
+c:\users\sriharsha21\documents\visual studio 2010\Projects\InsertDataIntoDatabase\InsertDataIntoDatabase\obj\x86\Debug\InsertDataIntoDatabase.pdb

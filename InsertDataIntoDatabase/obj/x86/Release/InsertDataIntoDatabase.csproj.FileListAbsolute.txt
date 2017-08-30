@@ -1,0 +1,12 @@
+c:\users\sriharsha21\documents\visual studio 2010\Projects\InsertDataIntoDatabase\InsertDataIntoDatabase\bin\Release\InsertDataIntoDatabase.exe.config
+c:\users\sriharsha21\documents\visual studio 2010\Projects\InsertDataIntoDatabase\InsertDataIntoDatabase\bin\Release\InsertDataIntoDatabase.exe
+c:\users\sriharsha21\documents\visual studio 2010\Projects\InsertDataIntoDatabase\InsertDataIntoDatabase\bin\Release\InsertDataIntoDatabase.pdb
+c:\users\sriharsha21\documents\visual studio 2010\Projects\InsertDataIntoDatabase\InsertDataIntoDatabase\obj\x86\Release\InsertDataIntoDatabase.Form1.resources
+c:\users\sriharsha21\documents\visual studio 2010\Projects\InsertDataIntoDatabase\InsertDataIntoDatabase\obj\x86\Release\InsertDataIntoDatabase.Properties.Resources.resources
+c:\users\sriharsha21\documents\visual studio 2010\Projects\InsertDataIntoDatabase\InsertDataIntoDatabase\obj\x86\Release\InsertDataIntoDatabase.csproj.GenerateResource.Cache
+c:\users\sriharsha21\documents\visual studio 2010\Projects\InsertDataIntoDatabase\InsertDataIntoDatabase\obj\x86\Release\InsertDataIntoDatabase.exe
+c:\users\sriharsha21\documents\visual studio 2010\Projects\InsertDataIntoDatabase\InsertDataIntoDatabase\obj\x86\Release\InsertDataIntoDatabase.pdb
+c:\users\sriharsha21\documents\visual studio 2010\Projects\InsertDataIntoDatabase\InsertDataIntoDatabase\bin\Release\UserDetails.mdf
+c:\users\sriharsha21\documents\visual studio 2010\Projects\InsertDataIntoDatabase\InsertDataIntoDatabase\bin\Release\UserDetails_log.ldf
+c:\users\sriharsha21\documents\visual studio 2010\Projects\InsertDataIntoDatabase\InsertDataIntoDatabase\bin\Release\InsertDataIntoDatabase.exe.CodeAnalysisLog.xml
+c:\users\sriharsha21\documents\visual studio 2010\Projects\InsertDataIntoDatabase\InsertDataIntoDatabase\bin\Release\InsertDataIntoDatabase.exe.lastcodeanalysissucceeded
